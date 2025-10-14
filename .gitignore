@@ -1,0 +1,28 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.pdf
+
+# Arquivos de ambiente (se tiver senhas/chaves)
+.env
+.env.local
+
+# Node modules (se usar npm futuramente)
+node_modules/
+
+# Arquivos de build
+dist/
+build/
