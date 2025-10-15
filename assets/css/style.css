@@ -150,7 +150,6 @@ button {
 .section-description {
     font: var(--type-body-large);
     color: rgba(var(--color-dark-rgb), 0.7);
-    max-width: 600px;
     margin: 0 auto;
 }
 
@@ -778,12 +777,28 @@ button {
     display: flex;
     gap: var(--spacing-md);
     margin-bottom: var(--spacing-lg);
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: var(--spacing-lg);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-top: 4px solid #6CE093;
+    transition: all var(--transition-base);
+}
+
+.info-item:hover {
+    border-top-color: rgba(108, 224, 147, 0.8);
 }
 
 .info-item .material-symbols-outlined {
     font-size: 24px;
-    color: var(--color-secondary);
+    color: #6CE093;
     flex-shrink: 0;
+    filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+    transition: color var(--transition-base);
+}
+
+.info-item:hover .material-symbols-outlined {
+    color: rgba(108, 224, 147, 0.8);
 }
 
 .info-content {
@@ -809,6 +824,13 @@ button {
 .info-content p {
     font: var(--type-body-medium);
     color: rgba(var(--color-dark-rgb), 0.8);
+}
+
+/* Premium word styling */
+.shimmer-text {
+    color: #083864;
+    font-weight: 700;
+    font-style: italic;
 }
 
 /* ==================== CONTACT FORM ==================== */
