@@ -15,6 +15,7 @@ desktop.ini
 *.tmp
 *.bak
 *.pdf
+*.txt
 
 # Arquivos de ambiente (se tiver senhas/chaves)
 .env
