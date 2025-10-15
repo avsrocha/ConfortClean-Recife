@@ -1,0 +1,488 @@
+
+═══════════════════════════════════════════════════════════════
+         GUIA COMPLETO: PERFIL DA CONFORTCLEAN NO GOOGLE
+═══════════════════════════════════════════════════════════════
+
+📍 PASSO A PASSO PARA CRIAR O PERFIL
+═══════════════════════════════════════════════════════════════
+
+1. ACESSE:
+   https://business.google.com/create
+
+2. FAÇA LOGIN:
+   Use a conta Google da empresa (@confortclean.com.br se tiver)
+   Ou crie uma nova conta Gmail para a empresa
+
+3. CLIQUE EM:
+   "Adicionar sua empresa ao Google"
+
+═══════════════════════════════════════════════════════════════
+                    INFORMAÇÕES BÁSICAS
+═══════════════════════════════════════════════════════════════
+
+📝 NOME DA EMPRESA:
+ConfortClean
+
+📍 ENDEREÇO:
+Rua Candido Lacerda, 221
+Torreão, Recife - PE
+CEP: 52030-010
+
+📞 TELEFONE PRINCIPAL:
++55 81 7301-9151
+
+🌐 SITE:
+[Adicione a URL do site quando estiver no ar]
+
+📧 E-MAIL:
+contato@confortclean.com.br
+
+═══════════════════════════════════════════════════════════════
+                    CATEGORIA PRINCIPAL
+═══════════════════════════════════════════════════════════════
+
+📂 CATEGORIA PRINCIPAL (escolha 1):
+"Serviço de limpeza de estofados"
+
+📂 CATEGORIAS ADICIONAIS (escolha até 9):
+1. Serviço de limpeza de carpetes
+2. Serviço de limpeza automotiva
+3. Serviço de limpeza a vapor
+4. Limpeza de sofás
+5. Serviço de higienização
+6. Limpeza de estofados domésticos
+7. Serviço de limpeza comercial
+
+═══════════════════════════════════════════════════════════════
+                      HORÁRIO DE FUNCIONAMENTO
+═══════════════════════════════════════════════════════════════
+
+⏰ HORÁRIOS (marque "Horários especiais" se houver):
+
+Segunda-feira:    08:00 – 18:00
+Terça-feira:      08:00 – 18:00
+Quarta-feira:     08:00 – 18:00
+Quinta-feira:     08:00 – 18:00
+Sexta-feira:      08:00 – 18:00
+Sábado:           08:00 – 18:00
+Domingo:          Fechado
+
+💡 DICA: Se atende fora desse horário por agendamento, 
+         adicione isso na descrição!
+
+═══════════════════════════════════════════════════════════════
+                    DESCRIÇÃO DA EMPRESA
+═══════════════════════════════════════════════════════════════
+
+📄 DESCRIÇÃO (até 750 caracteres):
+
+A ConfortClean é especialista em limpeza e higienização profissional 
+de estofados em Recife - PE. Oferecemos serviços de higienização de 
+sofás, poltronas, cadeiras, carpetes e bancos de veículos com 
+equipamentos de última geração e produtos especializados.
+
+Nossa missão é devolver a beleza e higiene dos seus móveis, eliminando 
+ácaros, bactérias, manchas e odores com técnicas avançadas de limpeza 
+a vapor e extração. Atendemos residências, empresas e condomínios em 
+toda a região metropolitana do Recife.
+
+Serviços:
+• Higienização de sofás e estofados
+• Limpeza de cadeiras e poltronas
+• Higienização automotiva completa
+• Limpeza de carpetes e tapetes
+• Impermeabilização de tecidos
+
+Orçamento gratuito pelo WhatsApp! Atendemos Recife e região.
+
+CNPJ: 42.428.137/0001-91
+
+═══════════════════════════════════════════════════════════════
+                    DESCRIÇÃO CURTA (ALTERNATIVA)
+═══════════════════════════════════════════════════════════════
+
+Se preferir uma versão mais objetiva (até 250 caracteres):
+
+Limpeza e higienização profissional de estofados em Recife. Sofás, 
+cadeiras, poltronas e higienização automotiva. Eliminamos ácaros, 
+manchas e odores com equipamentos profissionais. Orçamento gratuito!
+
+═══════════════════════════════════════════════════════════════
+                    DATA DE INAUGURAÇÃO
+═══════════════════════════════════════════════════════════════
+
+📅 DATA DE ABERTURA:
+[Adicione a data de fundação da empresa]
+
+═══════════════════════════════════════════════════════════════
+                    ATRIBUTOS DA EMPRESA
+═══════════════════════════════════════════════════════════════
+
+✅ MARQUE OS ATRIBUTOS APLICÁVEIS:
+
+ACESSIBILIDADE:
+☐ Entrada acessível para cadeirantes
+☐ Banheiro acessível para cadeirantes
+☐ Vaga de estacionamento acessível
+
+COMODIDADES:
+☑ Atende no local (vai até o cliente)
+☑ Estima-se ser de propriedade de mulheres
+☐ Empresa de propriedade LGBT+
+
+PAGAMENTOS:
+☑ Cartões de crédito
+☑ Cartões de débito
+☑ Pagamentos por dispositivo móvel
+☑ PIX
+
+PLANEJAMENTO:
+☑ É necessário agendamento
+
+SERVIÇOS:
+☑ Consulta online
+☑ Serviços no local
+
+═══════════════════════════════════════════════════════════════
+                    PRODUTOS E SERVIÇOS
+═══════════════════════════════════════════════════════════════
+
+📦 ADICIONE SEUS SERVIÇOS (com preço se possível):
+
+SERVIÇO 1: Higienização de Sofá 2 Lugares
+Preço: A partir de R$ 150
+Descrição: Limpeza profunda com extração a vapor, eliminação de 
+ácaros e bactérias. Secagem rápida.
+
+SERVIÇO 2: Higienização de Sofá 3 Lugares
+Preço: A partir de R$ 200
+Descrição: Limpeza completa de sofá grande, remoção de manchas e 
+odores com produtos profissionais.
+
+SERVIÇO 3: Higienização Automotiva Completa
+Preço: A partir de R$ 180
+Descrição: Limpeza de bancos, carpetes, teto e forração interna. 
+Inclui higienização do ar-condicionado.
+
+SERVIÇO 4: Limpeza de Cadeiras de Escritório
+Preço: A partir de R$ 80 (por unidade)
+Descrição: Higienização de cadeiras corporativas, preservando 
+tecidos e estrutura.
+
+SERVIÇO 5: Impermeabilização de Estofados
+Preço: A partir de R$ 100
+Descrição: Proteção invisível que repele líquidos e facilita a 
+limpeza futura do estofado.
+
+💡 DICA: Adicione fotos de cada serviço!
+
+═══════════════════════════════════════════════════════════════
+                    PERGUNTAS FREQUENTES (FAQs)
+═══════════════════════════════════════════════════════════════
+
+❓ ADICIONE ESTAS PERGUNTAS NO PERFIL:
+
+P1: Quanto tempo leva para o sofá secar?
+R: Em média 4 a 6 horas. Usamos extração a vapor que remove 95% 
+da umidade. Ventiladores aceleram o processo.
+
+P2: Vocês removem manchas difíceis?
+R: Sim! Temos produtos específicos para manchas de café, vinho, 
+gordura, caneta e outros. Avaliamos cada caso.
+
+P3: A limpeza elimina ácaros e bactérias?
+R: Sim! Nosso processo com vapor a 120°C elimina 99,9% dos ácaros, 
+bactérias e fungos presentes nos estofados.
+
+P4: Atendem em qual região?
+R: Atendemos Recife e região metropolitana (Olinda, Jaboatão, 
+Paulista, Camaragibe). Consulte disponibilidade.
+
+P5: Quanto custa o orçamento?
+R: O orçamento é 100% gratuito! Entre em contato pelo WhatsApp 
+(81) 7301-9151 e faremos uma avaliação.
+
+P6: Preciso tirar o sofá de casa?
+R: Não! Todo o serviço é feito no local. Levamos todos os 
+equipamentos necessários até você.
+
+P7: Vocês trabalham aos sábados?
+R: Sim! Atendemos de segunda a sábado, das 8h às 18h. Agendamento 
+prévio necessário.
+
+P8: Qual a forma de pagamento?
+R: Aceitamos dinheiro, PIX, cartões de crédito e débito. 
+Parcelamento disponível no cartão de crédito.
+
+═══════════════════════════════════════════════════════════════
+                    FOTOS ESSENCIAIS
+═══════════════════════════════════════════════════════════════
+
+📸 TIPOS DE FOTOS PARA ADICIONAR (mínimo 10):
+
+1. LOGO/MARCA:
+   - Logo da ConfortClean (foto de perfil)
+   - Logo em alta resolução (foto de capa)
+
+2. ANTES E DEPOIS (ESSENCIAL!):
+   - Sofá sujo vs limpo (5-10 fotos)
+   - Banco de carro antes/depois
+   - Cadeira de escritório transformada
+   - Carpete sujo vs limpo
+
+3. PROCESSO DE TRABALHO:
+   - Equipamentos profissionais
+   - Técnico realizando limpeza a vapor
+   - Processo de extração
+   - Aplicação de produtos
+
+4. RESULTADOS:
+   - Sofás já higienizados
+   - Ambientes completos
+   - Detalhes do acabamento
+
+5. EQUIPE E VEÍCULO:
+   - Equipe uniformizada
+   - Van/carro com adesivo da empresa
+   - Equipamentos organizados no veículo
+
+6. AMBIENTE EXTERNO:
+   - Fachada do endereço (se aplicável)
+   - Localização/ponto de referência
+
+📏 ESPECIFICAÇÕES TÉCNICAS:
+- Resolução mínima: 720 x 720 pixels
+- Formato: JPG ou PNG
+- Tamanho máximo: 5 MB por foto
+- Orientação: Horizontal para capa, quadrada para perfil
+
+💡 DICA: Fotos de antes/depois têm 2x mais engajamento!
+
+═══════════════════════════════════════════════════════════════
+                    POSTS E ATUALIZAÇÕES
+═══════════════════════════════════════════════════════════════
+
+📢 CRIE POSTS REGULARES (1-2 por semana):
+
+POST 1 - OFERTA:
+Título: Promoção de Outubro! 🎉
+Texto: Sofá 3 lugares por apenas R$ 180! Válido até 31/10. 
+Agende pelo WhatsApp (81) 7301-9151.
+Botão: "Chamar no WhatsApp"
+
+POST 2 - DICA:
+Título: Você sabia? 🧐
+Texto: Seu sofá acumula até 10 mil ácaros por centímetro quadrado! 
+A higienização profissional elimina 99,9% deles. Cuide da saúde 
+da sua família!
+
+POST 3 - ANTES E DEPOIS:
+Título: Veja essa transformação! ✨
+Texto: Sofá que parecia impossível de limpar. Resultado 
+impressionante! Seu estofado merece esse cuidado.
++ Foto antes/depois
+
+POST 4 - DEPOIMENTO:
+Título: Cliente satisfeito! ⭐⭐⭐⭐⭐
+Texto: "Ficou impecável! Recomendo muito!" - Maria Silva, Boa Viagem
++ Print do WhatsApp
+
+═══════════════════════════════════════════════════════════════
+                    VERIFICAÇÃO DO PERFIL
+═══════════════════════════════════════════════════════════════
+
+✉️ GOOGLE VAI VERIFICAR SEU ENDEREÇO:
+
+OPÇÕES DE VERIFICAÇÃO:
+1. Por cartão postal (mais comum)
+   - Google envia código pelo correio
+   - Chega em 5-7 dias úteis
+   - Digite o código no painel
+
+2. Por telefone (se disponível)
+   - Recebe ligação automática ou SMS
+   - Mais rápido (alguns minutos)
+
+3. Por e-mail (empresas com domínio próprio)
+   - Recebe link no e-mail da empresa
+   - Imediato
+
+4. Verificação em vídeo (em alguns casos)
+   - Grava vídeo do estabelecimento
+   - Análise manual pelo Google
+
+💡 DICA: Escolha verificação por cartão postal para ter certeza!
+
+═══════════════════════════════════════════════════════════════
+                    PEDINDO AVALIAÇÕES
+═══════════════════════════════════════════════════════════════
+
+⭐ COMO PEDIR AVALIAÇÕES DOS CLIENTES:
+
+MÉTODO 1 - LINK DIRETO:
+Após verificado, o Google gera um link curto para avaliações.
+Compartilhe por WhatsApp: "Adoramos ter cuidado do seu sofá! 
+Sua avaliação nos ajuda muito: [link]"
+
+MÉTODO 2 - QR CODE:
+Gere um QR Code do link de avaliação e mostre ao cliente após 
+o serviço. Imprima em cartões ou adesivos.
+
+MÉTODO 3 - MENSAGEM PERSONALIZADA:
+"Olá [Nome]! Esperamos que tenha adorado seu sofá renovado! 🛋️✨ 
+Sua opinião é muito importante. Poderia avaliar nosso serviço no 
+Google? Obrigado! [link]"
+
+🎯 META: 20 avaliações nos primeiros 3 meses
+
+═══════════════════════════════════════════════════════════════
+                    OTIMIZAÇÃO PARA SEO LOCAL
+═══════════════════════════════════════════════════════════════
+
+🔍 PALAVRAS-CHAVE PRINCIPAIS (use na descrição):
+
+- Limpeza de estofados Recife
+- Higienização de sofá Recife
+- Limpeza de sofá Recife
+- Higienização automotiva Recife
+- Limpeza de estofados Recife PE
+- Lavagem de sofá Recife
+- Higienização de poltronas Recife
+- Limpeza profissional de estofados
+
+📍 LOCALIDADES PARA MENCIONAR:
+- Recife
+- Boa Viagem
+- Pina
+- Setúbal
+- Imbiribeira
+- Torreão
+- Aflitos
+- Espinheiro
+- Graças
+- Olinda
+- Jaboatão dos Guararapes
+
+═══════════════════════════════════════════════════════════════
+                    CHECKLIST FINAL
+═══════════════════════════════════════════════════════════════
+
+✅ ANTES DE PUBLICAR, VERIFIQUE:
+
+☐ Nome correto (ConfortClean)
+☐ Endereço completo e preciso
+☐ Telefone WhatsApp correto
+☐ Horários de funcionamento atualizados
+☐ Categorias relevantes selecionadas
+☐ Descrição otimizada (750 caracteres)
+☐ Pelo menos 10 fotos de qualidade
+☐ 5 fotos de antes/depois
+☐ Logo como foto de perfil
+☐ Serviços com preços cadastrados
+☐ FAQs respondidas (8 perguntas)
+☐ Atributos marcados corretamente
+☐ Métodos de pagamento informados
+☐ Link do site (quando disponível)
+☐ Instagram linkado
+☐ Verificação solicitada
+
+═══════════════════════════════════════════════════════════════
+                    MANUTENÇÃO DO PERFIL
+═══════════════════════════════════════════════════════════════
+
+📅 TAREFAS SEMANAIS:
+- Responder todas as avaliações (positivas E negativas)
+- Criar 1-2 posts novos
+- Adicionar 2-3 fotos novas
+- Responder perguntas dos clientes
+
+📅 TAREFAS MENSAIS:
+- Atualizar horários (feriados, férias)
+- Revisar informações de contato
+- Adicionar novos serviços/produtos
+- Analisar estatísticas do perfil
+
+═══════════════════════════════════════════════════════════════
+                    ESTATÍSTICAS A MONITORAR
+═══════════════════════════════════════════════════════════════
+
+📊 NO PAINEL DO GOOGLE, ACOMPANHE:
+
+- Visualizações do perfil (meta: 500+/mês)
+- Buscas diretas vs descoberta
+- Ações dos clientes (ligações, rotas, site)
+- Fotos mais visualizadas
+- Horários de pico de visualização
+
+💡 Use esses dados para ajustar horários de post e ofertas!
+
+═══════════════════════════════════════════════════════════════
+                    RESPONDENDO AVALIAÇÕES
+═══════════════════════════════════════════════════════════════
+
+⭐⭐⭐⭐⭐ AVALIAÇÃO 5 ESTRELAS:
+"Muito obrigado, [Nome]! Ficamos felizes que tenha adorado o 
+resultado. Estamos sempre à disposição para cuidar dos seus 
+estofados! 🛋️✨ - Equipe ConfortClean"
+
+⭐⭐⭐⭐ AVALIAÇÃO 4 ESTRELAS:
+"Obrigado pela avaliação, [Nome]! Adoramos saber que ficou 
+satisfeito. Se houver algo que possamos melhorar, estamos à 
+disposição! 😊"
+
+⭐⭐⭐ AVALIAÇÃO 3 ESTRELAS OU MENOS:
+"Olá [Nome], agradecemos seu feedback. Lamentamos que sua 
+experiência não tenha sido 100%. Por favor, entre em contato 
+conosco pelo WhatsApp (81) 7301-9151 para resolvermos isso. 
+Sua satisfação é nossa prioridade! - Equipe ConfortClean"
+
+🚨 SEMPRE RESPONDA EM ATÉ 24 HORAS!
+
+═══════════════════════════════════════════════════════════════
+                    DICAS EXTRAS DE OURO
+═══════════════════════════════════════════════════════════════
+
+💎 10 DICAS PARA SE DESTACAR:
+
+1. Atualize fotos semanalmente (algoritmo favorece)
+2. Responda TODAS as perguntas em até 2 horas
+3. Publique posts em horários de pico (18h-20h)
+4. Use vídeos curtos (15-30 seg) de antes/depois
+5. Marque localização exata no mapa
+6. Adicione link do Instagram na bio
+7. Crie ofertas especiais exclusivas do Google
+8. Responda avaliações com personalização
+9. Adicione botão "Mensagem" (WhatsApp Business)
+10. Monitore concorrentes e se destaque
+
+═══════════════════════════════════════════════════════════════
+                    LINKS ÚTEIS
+═══════════════════════════════════════════════════════════════
+
+📎 RECURSOS:
+
+Criar Perfil:
+https://business.google.com/create
+
+Gerenciar Perfil:
+https://business.google.com
+
+Suporte Google:
+https://support.google.com/business
+
+App Google Meu Negócio:
+Play Store / App Store - busque "Google Meu Negócio"
+
+═══════════════════════════════════════════════════════════════
+
+🎯 RESULTADO ESPERADO EM 90 DIAS:
+
+- 20+ avaliações (média 4.5+ estrelas)
+- 500+ visualizações/mês
+- 50+ cliques para ligar
+- 30+ solicitações de rota
+- Aparecer no "Top 3" da busca local
+
+═══════════════════════════════════════════════════════════════
+              BOA SORTE COM SEU PERFIL NO GOOGLE! 🚀
+═══════════════════════════════════════════════════════════════
