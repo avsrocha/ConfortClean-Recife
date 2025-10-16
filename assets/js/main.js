@@ -209,7 +209,7 @@
         });
 
         // Submissão do formulário
-        contactForm.addEventListener('submit', async function (e) {
+        contactForm.addEventListener('submit', function (e) {
             e.preventDefault();
 
             // Valida todos os campos
@@ -231,36 +231,47 @@
             submitButton.disabled = true;
             submitButton.innerHTML = '<span class="material-symbols-outlined">hourglass_empty</span> Enviando...';
 
-            try {
-                // Envia o formulário via Formspree ou serviço similar
-                const formData = new FormData(contactForm);
-                const response = await fetch(contactForm.action, {
-                    method: 'POST',
-                    body: formData,
-                    headers: {
-                        'Accept': 'application/json'
-                    }
-                });
+            // Coleta os dados do formulário
+            const name = contactForm.name.value;
+            const email = contactForm.email.value;
+            const phone = contactForm.phone.value;
+            const service = contactForm.service.value;
+            const message = contactForm.message.value || 'Nenhuma mensagem adicional';
 
-                if (response.ok) {
-                    showFormStatus('Mensagem enviada com sucesso! Entraremos em contato em breve.', 'success');
-                    contactForm.reset();
+            // Formata a mensagem para WhatsApp
+            const whatsappMessage = `*Nova mensagem do formulário - ConfortClean*
 
-                    // Redireciona para WhatsApp após 2 segundos (opcional)
-                    setTimeout(() => {
-                        window.open('https://wa.me/558173019151?text=Olá! Acabei de preencher o formulário no site.', '_blank');
-                    }, 2000);
-                } else {
-                    throw new Error('Erro ao enviar formulário');
-                }
-            } catch (error) {
-                console.error('Erro:', error);
-                showFormStatus('Erro ao enviar mensagem. Por favor, tente novamente ou entre em contato pelo WhatsApp.', 'error');
-            } finally {
-                // Reabilita o botão
+*DADOS DO FORMULÁRIO:*
+
+👤 *Nome:* ${name}
+📧 *E-mail:* ${email}
+📱 *Telefone:* ${phone}
+🛋️ *Serviço Desejado:* ${service}
+💬 *Mensagem:* ${message}
+
+---
+*Recebido via formulário do website*`.trim();
+
+            // Codifica a mensagem para URL
+            const encodedMessage = encodeURIComponent(whatsappMessage);
+
+            // Redireciona para WhatsApp com autoabertura
+            const whatsappUrl = `https://wa.me/5581973019151?text=${encodedMessage}`;
+
+            // Abre WhatsApp
+            window.open(whatsappUrl, '_blank');
+
+            // Mostra mensagem de sucesso
+            showFormStatus('Redirecionando para WhatsApp! Entraremos em contato em breve.', 'success');
+
+            // Limpa o formulário
+            contactForm.reset();
+
+            // Reabilita o botão após 2 segundos
+            setTimeout(() => {
                 submitButton.disabled = false;
                 submitButton.innerHTML = originalText;
-            }
+            }, 2000);
         });
     }
 
